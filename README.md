@@ -1,2 +1,3 @@
 # CodSoft
-internship one (cllg)
+codes of tasks
+
